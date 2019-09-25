@@ -7,7 +7,7 @@
 TICKET_TYPE = 2
 
 # 出发日期(list) "2018-01-06", "2018-01-07"
-STATION_DATES = ["2019-10-01"]
+STATION_DATES = [""]
 
 # 填入需要购买的车次(list)，"G1353"
 # 修改车次填入规则，注：(以前设置的车次逻辑不变)，如果车次填入为空，那么就是当日乘车所有车次都纳入筛选返回
@@ -15,10 +15,10 @@ STATION_DATES = ["2019-10-01"]
 STATION_TRAINS = []
 
 # 出发城市，比如深圳北，就填深圳就搜得到
-FROM_STATION = "深圳北"
+FROM_STATION = ""
 
 # 到达城市 比如深圳北，就填深圳就搜得到
-TO_STATION = "北京"
+TO_STATION = ""
 
 # 座位(list) 多个座位ex:
 # "商务座",
@@ -38,11 +38,11 @@ IS_MORE_TICKET = True
 # 乘车人(list) 多个乘车人ex:
 # - "张三"
 # - "李四"
-TICKET_PEOPLES = ["罗钛龙"]
+TICKET_PEOPLES = [""]
 
 # 12306登录账号
-USER = "18566739789"
-PWD = "6862991ltl"
+USER = ""
+PWD = ""
 
 # 加入小黑屋时间默认为5分钟，此功能为了防止僵尸票导致一直下单不成功错过正常的票
 TICKET_BLACK_LIST_TIME = 5
