@@ -68,7 +68,7 @@ def default_post_data():
            "Accept-Language: zh-CN,zh;q=0.9,en;q=0.8\r\n" \
            "Content-Type: application/x-www-form-urlencoded; charset=UTF-8\r\n" \
            "Accept: application/json, text/javascript, */*; q=0.01\r\n" \
-           "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5\r\n" \
+           "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\r\n" \
            "Content-Length: {2}\r\n"\
            "Cookie: {4}\r\n\n"\
            "{1}\r\n"\
