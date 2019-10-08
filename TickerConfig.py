@@ -30,7 +30,7 @@ TO_STATION = ""
 # "硬座",
 # "无座",
 # "动卧",
-SET_TYPE = ["二等座"]
+SET_TYPE = ["一等座"]
 # 当余票小于乘车人，如果选择优先提交，则删减联系人和余票数一致在提交
 # bool
 IS_MORE_TICKET = True
